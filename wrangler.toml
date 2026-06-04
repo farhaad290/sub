@@ -1,9 +1,9 @@
 #:schema node_modules/wrangler/config-schema.json
-name = "sub"
+name = "sub-SUBLINK_KV"
 main = "src/index.js"
 compatibility_date = "2024-07-24"
 compatibility_flags = ["nodejs_compat"]
 
 kv_namespaces = [
-  { binding = "sub", id = "459e6ed55bc14ead82a82ca123bc8c8b" }
+  { binding = "sub", id = "3190c86f562e4154b09381d8f71f3698" }
 ]
